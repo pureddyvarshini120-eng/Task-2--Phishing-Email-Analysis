@@ -38,4 +38,4 @@ Tools Used
 
 Conclusion
 
-The email is a phishing attempt designed to steal user credentials by creating urgency and impersonating a trusted organization.
+The email is a phishing attempt designed to steal user credentials by creating urgency and impersonating a trusted organization
