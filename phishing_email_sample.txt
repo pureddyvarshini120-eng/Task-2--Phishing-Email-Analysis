@@ -1,0 +1,9 @@
+This file is for educational analysis only.
+
+Phishing emails typically contain:
+- Fake sender addresses (spoofed domains)
+- Urgent language to create panic
+- Suspicious links that mimic real websites
+- Requests for personal or financial information
+
+Task 2 - Cybersecurity Awareness Analysis
